@@ -11,25 +11,27 @@ The competition is split into two segments, centered around the complexity of th
 
 ## Basic Features
 ### Sketches and Relations
-Still under construction...
+This section covers basic implementation sketches and relations. More info can be found [here]([url](https://help.solidworks.com/2021/english/SolidWorks/sldworks/c_sketching_top.htm?id=31)), and [here]([url](https://www.youtube.com/watch?v=YmMDhzXitn0)) is a tutorial to get you started. 
 ### Part Modeling
-Still under construction...
+This section covers basic part modeling. More info can be found [here]([url](https://help.solidworks.com/2021/english/SolidWorks/sldworks/c_Parts_and_Features_Top_Folder.htm?id=26)), and [here]([url](https://www.youtube.com/watch?v=JvsJf1huMXQ)) is a tutorial to get you started. 
 ### Assembly Modeling
-Still under construction...
+This section covers basic assembly modeling. More info can be found [here]([url](https://help.solidworks.com/2021/english/SolidWorks/sldworks/c_Assemblies_first_map_topic.htm?id=8)), and [here]([url](https://www.youtube.com/watch?v=XcOzOMelEyc)) is a tutorial to get you started. 
 ### Manufacturing
-Still under construction...
+This section covers engineering drawings and the Bill of Materials. More info can be found [here]([url](https://help.solidworks.com/2021/english/SolidWorks/sldworks/c_detailing_drawing.htm?id=14)). This [tutorial]([url](https://www.youtube.com/watch?v=cpwvqZ8TJao)) covers basic part drawings, [this one]([url](https://www.youtube.com/watch?v=eh5IKOwI-Fg)) covers assemblies, and [this one]([url](https://www.youtube.com/watch?v=DELJwlkQ_Ao)) covers the BOM. 
 
 ## Intermediate Features
 ### Geometric Dimensioning and Tolerances
-Still under construction...
+This section covers the implementation of GD&T in SolidWorks. [Here]([url](https://www.gdandtbasics.com/applying-gdandt-solidworks-drawing/)) is a tutorial on exactly that topic, and [this article]([url](https://www.gdandtbasics.com/asme-y14-5-gdt-standard/)) covers the ASME standard for GD&T. 
 ### Parametric Design and Configurations
-Still under construction...
+This section covers both the Equation/Global Variable and Configuration tools. An article on the implementation of the former with the SolidWorks equation manager can be found [here]([url](https://www.instructables.com/Improve-Your-Solidworks-Models-With-Parametric-Mod/)), with the official resource available [here]([url](https://help.solidworks.com/2021/english/SolidWorks/sldworks/HIDD_EQUATION_MANAGER.htm)). More info on configurations can be found [here]([url](https://help.solidworks.com/2021/english/SolidWorks/sldworks/c_Configurations_Overview.htm?id=10)), with a tutorial [here]([url](https://www.youtube.com/watch?v=GdfhS5Md5wk)). 
 ### Surfacing
-Still under construction...
+This section covers the SolidWorks surfacing suite. More information can be found [here]([url](https://help.solidworks.com/2022/English/SolidWorks/sldworks/c_Surfaces_Overview.htm)), with a tutorial available [here]([url](https://www.youtube.com/watch?v=2tS3ODz8WgY)).
 ### Electrical CAD
-Still under construction...
+This section covers wire routing and interfacing using the SolidWorks Electrical toolkit. More info about routing can be found [here]([url](https://help.solidworks.com/2021/english/SolidWorks/help_list.htm?id=27)), with a tutorial available [here]([url](https://www.youtube.com/watch?v=UveKaws3RyE)). A tutorial focused on creating wire harnesses is available [here]([url](https://www.youtube.com/watch?v=KfWHiFrMQSM)).  
 ### Simulation
-Still under construction...
+This section covers SolidWorks's simulation suite. More info on simulation can be found [here]([url](https://help.solidworks.com/2021/english/SolidWorks/help_list.htm?id=29)). Here are some tutorials on [structural]([url](https://www.youtube.com/watch?v=xP32oQl9Osk)), [thermal]([url](https://www.youtube.com/watch?v=JFp8tGOdKnU)), and [frequency]([url](https://www.youtube.com/watch?v=LGjqXjvUYwM)) simulations. 
+### Sheet Metal
+This section covers the Sheet Metal feature suite. More info on the aforementioned tool can be [here]([url](https://help.solidworks.com/2021/english/SolidWorks/sldworks/c_Sheet_Metal.htm?id=28)), with a [basic tutorial]([url](https://www.youtube.com/watch?v=rh5eaWEXo0U)) and [advanced tutorial]([url](https://www.youtube.com/watch?v=BD4H4hpDzZE)) available here. 
 
 # Deliverables and Submitting your Work
 Each team's submission must follow the a specific format for ease of collaboration and judging. Here is a guide on how to set up your team and the your submission format:
